@@ -2,7 +2,8 @@
 
 ## Nama Anggota
 - Yesi Agustin (4522210023)  
-- Angelina Simbolon (4522210044)  
+- Angelina Simbolon (4522210044)
+- Daffa Khairi Albaihaqi
 - Daiva Baskoro U (4522210045)
 
 ## Deskripsi Singkat Aplikasi
